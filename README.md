@@ -1,1 +1,1 @@
-# database.guthub.io
+# database.github.io
